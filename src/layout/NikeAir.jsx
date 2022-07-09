@@ -9,6 +9,7 @@ export const Logo = styled.div`
   transform: translate3d(-50%, -50%, 0) rotate(0deg);
   width: 25%;
   // height: 25%;
+  cursor: pointer;
   padding: 3em;
   backdrop-filter: blur(20px);
   border: solid 4px transparent;
